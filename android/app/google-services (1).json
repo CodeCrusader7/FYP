@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417501277735",
+    "project_id": "vetconnect-e9cad",
+    "storage_bucket": "vetconnect-e9cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417501277735:android:a8819b6e62dbc8466ce802",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaaG25q2sd6IT8u-FxWaWmXTbL0cNq2ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
